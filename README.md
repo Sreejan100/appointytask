@@ -1,6 +1,5 @@
 # appointytask
 Name - Sreejan Chattopadhyay
-Registration no - 19BCE1541
 
 Task - Creating Instagram Backend API
 
